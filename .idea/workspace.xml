@@ -2,9 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="66b8682a-f426-4267-9737-ad7eee7d61a3" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Procfile" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/edu/eci/arsw/model/Airport.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/edu/eci/arsw/model/Location.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -14,8 +15,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Class" />
         <option value="HTML File" />
+        <option value="Class" />
       </list>
     </option>
   </component>
@@ -58,19 +59,6 @@
     </key>
   </component>
   <component name="RunManager" selected="Spring Boot.AirportAPIApplication (1)">
-    <configuration name="AirportAPIApplication (1)" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
-      <module name="ARSW-AirportsTest-master" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="edu.eci.arsw.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="SPRING_BOOT_MAIN_CLASS" value="edu.eci.arsw.AirportAPIApplication" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="AirportAPIApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
       <module name="ARSW-AirportsTest-master" />
       <extension name="coverage">
@@ -80,6 +68,19 @@
         </pattern>
       </extension>
       <option name="SPRING_BOOT_MAIN_CLASS" value="edu.eci.arsw.airportAPI.AirportAPIApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="AirportAPIApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="ARSW-AirportsTest-master" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="edu.eci.arsw.model.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="edu.eci.arsw.AirportAPIApplication" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -103,7 +104,7 @@
       <updated>1585167901530</updated>
       <workItem from="1585167905639" duration="939000" />
       <workItem from="1585169183791" duration="652000" />
-      <workItem from="1585169921557" duration="3855000" />
+      <workItem from="1585169921557" duration="5883000" />
     </task>
     <servers />
   </component>
@@ -122,6 +123,10 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="532" y="215" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1536.824@0.0.1536.824" timestamp="1585176385856" />
+    <state x="574" y="96" key="#com.intellij.ide.util.MemberChooser" timestamp="1585178562178">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="574" y="96" key="#com.intellij.ide.util.MemberChooser/0.0.1536.824@0.0.1536.824" timestamp="1585178562178" />
     <state width="1493" height="210" key="GridCell.Tab.0.bottom" timestamp="1585176145059">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
